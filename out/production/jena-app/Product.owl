@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://purl.org/laptop-sa#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:pext="http://proton.semanticweb.org/protonext#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:psys="http://proton.semanticweb.org/protonsys#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:untitled-ontology-19="http://purl.org/laptop-sa#">
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation2">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation1">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Tatacliq">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Merchant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Snapdeal">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Seller"/>
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Merchant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Shopclues">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Merchant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Paytmmall">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Seller"/>
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Merchant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation2">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation1">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation2">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation1">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation3">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation2">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation1">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Flipkart">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Merchant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Ekart">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Seller"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#ComputerWorld">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Seller"/>
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Merchant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Cloud_tail_India">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Seller"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Amazon">
+	<rdf:type rdf:resource="http://purl.org/laptop-sa#Merchant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Stipulation">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Specification">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Seller">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Review">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Rating">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Product">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Price">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Organization">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Merchant">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Laptop">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Desktop">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#initiate">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Width">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Weight">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Storage">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Series">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Screen">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#SSD">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Resolution">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#ROM">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#RAM">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Processor">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Price">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#OS">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Name">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Model_No">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Height">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Dimension">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Company">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Color">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Body_type">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#merchant">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Varients">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Seller">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has_feedback">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has_Rating">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Categories">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Brand_Of">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Width">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/laptop-sa#Dimension"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Weight">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/laptop-sa#Dimension"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Screen">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/laptop-sa#Dimension"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#SSD">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/laptop-sa#Storage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#ROM">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/laptop-sa#Storage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#RAM">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/laptop-sa#Storage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Name">
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Height">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/laptop-sa#Dimension"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Varients">
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Seller">
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#initiate">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Product"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Width">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Weight">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Storage">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Series">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Screen">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#SSD">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Resolution">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#ROM">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#RAM">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Processor">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Price">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Product"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#OS">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Name">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Product"/>
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Organization"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Height">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Dimension">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Company">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Organization"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Color">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Body_type">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Seller">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Product"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has_feedback">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has_Rating">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Categories">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Specification"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Brand_Of">
+	<rdfs:domain rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#initiate">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Width">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Weight">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Storage">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Series">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Screen">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#SSD">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Resolution">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#ROM">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#RAM">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Processor">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#OS">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Name">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Model_No">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Height">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Dimension">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Company">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Color">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Body_type">
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Seller">
+	<rdfs:range rdf:resource="http://purl.org/laptop-sa#Seller"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has_feedback">
+	<rdfs:range rdf:resource="http://purl.org/laptop-sa#Review"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has_Rating">
+	<rdfs:range rdf:resource="http://purl.org/laptop-sa#Rating"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Has">
+	<rdfs:range rdf:resource="http://purl.org/laptop-sa#Price"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Categories">
+	<rdfs:range rdf:resource="http://purl.org/laptop-sa#Laptop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Brand_Of">
+	<rdfs:range rdf:resource="http://purl.org/laptop-sa#Organization"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Specification">
+	<rdfs:subClassOf rdf:resource="http://purl.org/laptop-sa#Stipulation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Review">
+	<rdfs:subClassOf rdf:resource="http://purl.org/laptop-sa#Stipulation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Rating">
+	<rdfs:subClassOf rdf:resource="http://purl.org/laptop-sa#Stipulation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Price">
+	<rdfs:subClassOf rdf:resource="http://purl.org/laptop-sa#Stipulation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Laptop">
+	<rdfs:subClassOf rdf:resource="http://purl.org/laptop-sa#Product"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Desktop">
+	<rdfs:subClassOf rdf:resource="http://purl.org/laptop-sa#Product"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<Varients rdf:resource="http://purl.org/laptop-sa#Vostro_15_3568_Variation2"/>
+	<Varients rdf:resource="http://purl.org/laptop-sa#Vostro_15_3568_Variation1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Varients rdf:resource="http://purl.org/laptop-sa#MQD32HNA_Variation2"/>
+	<Varients rdf:resource="http://purl.org/laptop-sa#MQD32HNA_Variation1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Varients rdf:resource="http://purl.org/laptop-sa#Inspiron_5568_Variation2"/>
+	<Varients rdf:resource="http://purl.org/laptop-sa#Inspiron_5568_Variation1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<Varients rdf:resource="http://purl.org/laptop-sa#Inspiron_3567_Variation3"/>
+	<Varients rdf:resource="http://purl.org/laptop-sa#Inspiron_3567_Variation2"/>
+	<Varients rdf:resource="http://purl.org/laptop-sa#Inspiron_3567_Variation1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pink</Color>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</Color>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Company rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple</Company>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Company rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dell</Company>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<Company rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dell</Company>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<Model_No rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vostro 15 3568</Model_No>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Model_No rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MQD32HNA</Model_No>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Model_No rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inspiron 5568 (Z564304SIN9)</Model_No>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<Model_No rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dell Inspiron 3567</Model_No>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Windows</OS>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Windows 10 pro</OS>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Windows</OS>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation2">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28999</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation1">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29000</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29906</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation2">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">33000</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation1">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40000</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39,000</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation2">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">73999</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation1">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">72990</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">72990</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation3">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45000</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation2">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50000</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation1">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23000</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<Price rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27990</Price>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intel Core i3</Processor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">i3</Processor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intel Core i7</Processor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intel Core i3</Processor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 GB</RAM>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 GB</RAM>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8 GB</RAM>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 GB</RAM>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 TB HDD</ROM>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 TB HDD</ROM>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 TB HDD</ROM>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.6 inch</Screen>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.6 inch</Screen>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567">
+	<Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.6 inch</Screen>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation2">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Paytmmall"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation1">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Ekart"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation2">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Ekart"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation1">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Cloud_tail_India"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation2">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Cloud_tail_India"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation1">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Ekart"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation3">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Cloud_tail_India"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation2">
+	<Seller rdf:resource="http://purl.org/laptop-sa#ComputerWorld"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation1">
+	<Seller rdf:resource="http://purl.org/laptop-sa#Cloud_tail_India"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation2">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Paytmmall"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568_Variation1">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Flipkart"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation2">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Flipkart"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA_Variation1">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Amazon"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation2">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Amazon"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568_Variation1">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Flipkart"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation3">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Snapdeal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation2">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Paytmmall"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_3567_Variation1">
+	<merchant rdf:resource="http://purl.org/laptop-sa#Amazon"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Body_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carbon</Body_type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Body_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plastic</Body_type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Vostro_15_3568">
+	<Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dell Vostro 15 3568</Name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MackBookAir</Name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#Inspiron_5568">
+	<Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dell Inspiron 5568 (Z564304SIN9) 2 In 1 Laptop</Name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/laptop-sa#MQD32HNA">
+	<SSD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64 SSD</SSD>
+	<initiate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-05-30T09:00:00</initiate>
+</rdf:Description>
+
+</rdf:RDF>
